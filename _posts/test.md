@@ -1,6 +1,6 @@
 ---
 title: "Hello World!"
-date: 2024-09-10 22:08:00
+date: 2024-09-10 22:08:00 +0000
 categories: [ctf]
 tags: [ctf, write-up, tryhackme]
 ---
